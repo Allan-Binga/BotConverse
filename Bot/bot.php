@@ -1,14 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ChatBot</title>
     <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.8/css/line.css">
-<link rel="stylesheet" href="bot.css">
-<script  src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <link rel="icon" href="./favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="bot.css">
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
 </head>
+
 <body>
     <div class="wrapper">
         <div class="title"> Online ChatBot</div>
@@ -31,4 +34,5 @@
     </div>
     <script src="bot.js"></script>
 </body>
+
 </html>
